@@ -3,7 +3,7 @@ This repository contains a collection of data science projects and exploratory a
 The primary objective is to showcase various machine learning techniques, data manipulation, and statistical analysis methods to solve real-world problems.
 
 Table of Contents:
-1. Risk Model for Credit Loan Default Prediction // [Notebook](finance/risk-modelling/main.ipynb)
+1. Risk Model for Credit Loan Default Prediction // [Notebook](finance/risk-modeling/main.ipynb)
 
 
 Older projects:
